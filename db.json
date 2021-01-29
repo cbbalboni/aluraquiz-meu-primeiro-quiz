@@ -1,0 +1,69 @@
+{
+  "bg": "https://i.imgur.com/vq1nEKS.jpg",
+  "title": "Quiz CSS da Alura", 
+  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos anos você realmente tem",
+  "questions": [
+    {
+      "image": "https:n//media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Principal objeto DOM com todos os elementos de uma página",
+      "description": "Essa é pra aquecer",
+      "answer": 0,
+      "alternatives": [
+        "document",
+        "element",
+        "attr",
+        "props"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Como pegar uma tag única dentro da página",
+      "description": " ",
+      "answer": 0,
+      "alternatives": [
+         "document.getElementById()",
+         "document.getElementByTagName()",
+         "window.name",
+         "document.body"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Como pegar um elemento dentro da página",
+      "description": " ",
+      "answer": 0,
+      "alternatives": [
+         "document.getElementById()",
+         "document.getElementByTagName()",
+         "window.name",
+         "document.body"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Como abrir um popup",
+      "description": " ",
+      "answer": 0,
+      "alternatives": [
+         "window.open",
+         "document.getElementByTagName()",
+         "window.name",
+         "document.body"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#cddc39",
+      "secondary": "#d7e360",
+      "mainBg": "#ffc107",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
